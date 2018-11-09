@@ -2,6 +2,7 @@ Espresso Reads
 
 Your Book Store Companion
 
+![screen shot 2018-11-09 at 5 51 40 pm](https://user-images.githubusercontent.com/40006828/48293317-6f415480-e44c-11e8-8d95-6a50cfa4b48d.png)
 
 
 "I read many, many books, but with most books I read, I only read the first few pages because most books aren't very good."
