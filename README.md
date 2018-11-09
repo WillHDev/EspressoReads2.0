@@ -5,7 +5,7 @@ Your Book Store Companion
 
 
 "I read many, many books, but with most books I read, I only read the first few pages because most books aren't very good."
-- Yuval Noah Harari, Author of Sapiens
+-Yuval Noah Harari, Author of Sapiens
 
 
 “Some books shake the ground beneath you, but most books should have been articles instead.”
